@@ -15,11 +15,11 @@ This project is useful for quickly generating QR codes to share URLs, making the
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
-- **Library:** [qrcode.js](https://github.com/davidshimjs/qrcodejs) (or whichever you used)  
+- **Library:** [qrcode.js]  
 
 ---
 
 ## 📦 Installation & Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
+   [https://github.com/ahanafabid01/QR-Code-generator.git]
